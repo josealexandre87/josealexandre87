@@ -5,10 +5,7 @@
   <a href="https://www.linkedin.com/in/jose-alexandre-da-silva-junior-38801613a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
   <a href="https://github.com/josealexandre87/">
@@ -47,13 +44,19 @@ Today I am in a process of learning, with the aim of adding value to my work.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/python_icon.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/c_icon_original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/c%2B%2B_logo_azul.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/css3_logo_icon_blue.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/html5_logo_icon_orange.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/javascript_icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/git_logo_icon.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/pycharm_alt_icon.ico"  title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/vscode_icon.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/figma_logo_icon.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
+
 <!--
 **josealexandre87/josealexandre87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
