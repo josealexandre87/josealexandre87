@@ -56,6 +56,21 @@ Today I am in a process of learning, with the aim of adding value to my work.
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/figma_logo_icon.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josealexandre87&theme=chartreuse-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre87&&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **josealexandre87/josealexandre87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
