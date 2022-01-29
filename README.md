@@ -25,7 +25,7 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-josealexandre87&style=for-the-badge&color=yellow" alt=""/>
   <h1>
-  hey there
+ <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70" /> hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </h1>
 </div>
@@ -55,7 +55,6 @@ Today I am in a process of learning, with the aim of adding value to my work.
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/vscode_icon.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/figma_logo_icon.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-
 
 <!--
 **josealexandre87/josealexandre87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
