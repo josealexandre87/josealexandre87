@@ -14,7 +14,6 @@
   <a href="https://github.com/josealexandre87/">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub Badge"/>
   </a>
-  <br>
    <a href="https://www.facebook.com/josealexandre87">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
@@ -24,10 +23,8 @@
   <a href="https://discord.com/channels/josealexandre87#4599">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <br>
 </div>
 </div>
-<br>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-josealexandre87&style=for-the-badge&color=yellow" alt=""/>
   <h1>
@@ -35,12 +32,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </h1>
 </div>
-
-
- <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm starting to program and develop websites and applications.
+The first programming language I learned was Python and as soon as I started the course in College I learned the C and C++ programming languages and also took a course on code versioning using Git.
+Today I am in a process of learning, with the aim of adding value to my work.
 <!--
 **josealexandre87/josealexandre87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
