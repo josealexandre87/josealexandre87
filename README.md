@@ -40,8 +40,20 @@
 
 ### :man_technologist: About Me :
 I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm starting to program and develop websites and applications.
-The first programming language I learned was Python and as soon as I started the course in College I learned the C and C++ programming languages and also took a course on code versioning using Git.
+The first programming language that I learned was Python, and as soon as I started the course in College I learned the C and C++ programming languages and also took a course on code versioning using Git.
 Today I am in a process of learning, with the aim of adding value to my work.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **josealexandre87/josealexandre87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
