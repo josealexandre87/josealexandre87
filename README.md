@@ -69,6 +69,7 @@ Today I am in a process of learning, with the aim of adding value to my work.
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
