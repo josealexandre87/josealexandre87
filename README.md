@@ -20,11 +20,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 </div>
 
----
+<!-- --- -->
 
 ### :man_technologist: About Me :
 I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm starting to program and develop websites and applications.
@@ -51,7 +51,7 @@ Today I am in a process of learning, with the aim of adding value to my work.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josealexandre87&theme=chartreuse-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josealexandre87&theme=chartreuse-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre87&&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
