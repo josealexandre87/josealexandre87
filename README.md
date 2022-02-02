@@ -17,8 +17,9 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-josealexandre87&style=for-the-badge&color=yellow" alt=""/>
   <h1>
- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70" /> hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+ <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100 height="100" /> hey there
+ <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>-->
+ <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="100px"/>
 </h1>
 </div>
 <!-- <div align="center">
@@ -55,7 +56,6 @@ Today I am in a process of learning, with the aim of adding value to my work.
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josealexandre87&theme=chartreuse-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre87&&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### :writing_hand: Blog Posts :
