@@ -17,8 +17,8 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-josealexandre87&style=for-the-badge&color=yellow" alt=""/>
   <h1>
- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100 height="100" /> hey there
- <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>-->
+<img src="https://tenor.com/view/fma-full-metal-alchemist-alchemy-transmutation-circle-edward-elric-gif-15873696.gif" width="150 height="150" />hey there                                                                                
+ <!--  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100 height="100" />  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>-->
  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="100px"/>
 </h1>
 </div>
