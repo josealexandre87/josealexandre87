@@ -46,8 +46,7 @@ Today I am in a process of learning, with the aim of adding value to my work.
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/pycharm_alt_icon.ico"  title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/vscode_icon.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/figma_logo_icon.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/mysql_logo.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+  </div>
 
 ---
 
