@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm starting to program and develop websites and applications.
-The first programming language that I learned was Python, and as soon as I started the course in College I learned the C and C++ programming languages and also took a course on code versioning using Git.
+The first programming language that I learned was Python, and as soon as I started the course in College I learned the C programming language and also took a course on code versioning using Git.
 Today I am in a process of learning, with the aim of adding value to my work.
 
 ---
@@ -38,7 +38,6 @@ Today I am in a process of learning, with the aim of adding value to my work.
 <div>
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/python_icon.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/c_icon_original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/c%2B%2B_logo_azul.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/css3_logo_icon_blue.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/html5_logo_icon_orange.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/josealexandre87/josealexandre87/blob/main/Icons%20-%20Languages%20and%20Tools/javascript_icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
