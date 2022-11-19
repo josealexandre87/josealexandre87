@@ -16,9 +16,9 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-josealexandre87&style=for-the-badge&color=yellow" alt=""/>
   <h1>
-<img src="https://tenor.com/view/fma-full-metal-alchemist-alchemy-transmutation-circle-edward-elric-gif-15873696.gif" width="150 height="150" /> hey there                                                                                
+<!-- <img src="https://tenor.com/view/fma-full-metal-alchemist-alchemy-transmutation-circle-edward-elric-gif-15873696.gif" width="150 height="150" /> -->
  <!--  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100 height="100" />  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>-->
- <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="100px"/>
+ <!-- <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="100px"/>-->
 </h1>
 </div>
 <!-- <div align="center">
@@ -27,12 +27,12 @@
 
 <!-- --- -->
 
-### :man_technologist: About Me :
+<!-- ### :man_technologist: About Me :
 I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm starting to program and develop websites and applications.
 The first programming language that I learned was Python, and as soon as I started the course in College I learned the C programming language and also took a course on code versioning using Git.
-Today I am in a process of learning, with the aim of adding value to my work.
+Today I am in a process of learning, with the aim of adding value to my work.-->
 
----
+<!-- --- -->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -57,10 +57,10 @@ Today I am in a process of learning, with the aim of adding value to my work.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre87&&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+<!--- [Test Post](https://dev.to/itszed0/test-post-490g) -->
 <!-- BLOG-POST-LIST:END -->
 
 <!--
