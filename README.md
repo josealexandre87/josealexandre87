@@ -16,12 +16,26 @@ class WhoAmI:
      }
     hobbies = ["Drawing","Watching Anime","Read Mangá"]
 
+	@staticmethod
 	def getCity():
 		return "São Gonçalo, RJ"
-	
+
+	@staticmethod
 	def currentLifeProject():
-         learnJapanese()
-         createAlbertFlashCard()
-         postgraduateSoftwareEngineering()
+         WhoAmI.learnJapanese()
+         WhoAmI.createAlbertFlashCard()
+         WhoAmI.postgraduateSoftwareEngineering()
+
+    @staticmethod
+    def learnJapanese():
+        pass
+
+    @staticmethod
+    def createAlbertFlashCard():
+        pass
+
+    @staticmethod
+    def postgraduateSoftwareEngineering():
+        pass
  ```
 ---
