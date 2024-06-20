@@ -9,7 +9,7 @@
  ```python
 class WhoAmI:
     user = "Jose Alexandre"
-    current_work = "Student"
+    current_work = "Software Engineer at Neuraltronic"
     skills = {
         "code": ["HTML", "CSS", "Javascript", "Typescript", "Python", "Java"],
         "tools": ["React", "Django", "Docker"],
