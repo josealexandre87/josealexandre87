@@ -14,7 +14,7 @@ class WhoAmI:
         "code": ["HTML", "CSS", "Javascript", "Typescript", "Python", "Java"],
         "tools": ["React", "Django", "Docker"],
      }
-    hobbies = ["Drawing","Watching Anime","Read Mangá"]
+    hobbies = ["Drawing","Watching Anime","Read Manga"]
 
 	@staticmethod
 	def getCity():
@@ -23,15 +23,10 @@ class WhoAmI:
 	@staticmethod
 	def currentLifeProject():
          WhoAmI.learnJapanese()
-         WhoAmI.createAlbertFlashCard()
          WhoAmI.postgraduateSoftwareEngineering()
 
     @staticmethod
     def learnJapanese():
-        pass
-
-    @staticmethod
-    def createAlbertFlashCard():
         pass
 
     @staticmethod
