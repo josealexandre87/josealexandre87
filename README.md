@@ -15,6 +15,10 @@ class WhoAmI:
             "tools": ["React", "Django", "Docker"],
         }
         self._hobbies = ["Drawing", "Watching Anime", "Read Manga"]
+        self._current_life_projects = [
+            self.learn_japanese,
+            self.postgraduate_software_engineering,
+        ]
 
     @property
     def user(self):
@@ -32,21 +36,18 @@ class WhoAmI:
     def hobbies(self):
         return self._hobbies
 
-    @staticmethod
-    def city():
+    @property
+    def city(self):
         return "São Gonçalo, RJ"
 
-    @staticmethod
-    def current_life_project():
-        WhoAmI.learn_japanese()
-        WhoAmI.postgraduate_software_engineering()
+    @property
+    def current_life_projects(self):
+        return [project() for project in self._current_life_projects]
 
-    @staticmethod
-    def learn_japanese():
-        pass
+    def learn_japanese(self):
+        return "Learning Japanese"
 
-    @staticmethod
-    def postgraduate_software_engineering():
-        pass
+    def postgraduate_software_engineering(self):
+        return "Postgraduate in Software Engineering"
  ```
 ---
