@@ -7,29 +7,46 @@
 ## Who am I? 
  ```python
 class WhoAmI:
-    user = "Jose Alexandre"
-    current_work = "Software Engineer at Neuraltronic"
-    skills = {
-        "code": ["HTML", "CSS", "Javascript", "Typescript", "Python", "Java"],
-        "tools": ["React", "Django", "Docker"],
-     }
-    hobbies = ["Drawing","Watching Anime","Read Manga"]
+    def __init__(self):
+        self._user = "Jose Alexandre"
+        self._current_work = "Software Engineer at Neuraltronic"
+        self._skills = {
+            "code": ["HTML", "CSS", "Javascript", "Typescript", "Python", "Java"],
+            "tools": ["React", "Django", "Docker"],
+        }
+        self._hobbies = ["Drawing", "Watching Anime", "Read Manga"]
 
-	@staticmethod
-	def getCity():
-		return "São Gonçalo, RJ"
+    @property
+    def user(self):
+        return self._user
 
-	@staticmethod
-	def currentLifeProject():
-         WhoAmI.learnJapanese()
-         WhoAmI.postgraduateSoftwareEngineering()
+    @property
+    def current_work(self):
+        return self._current_work
+
+    @property
+    def skills(self):
+        return self._skills
+
+    @property
+    def hobbies(self):
+        return self._hobbies
 
     @staticmethod
-    def learnJapanese():
+    def city():
+        return "São Gonçalo, RJ"
+
+    @staticmethod
+    def current_life_project():
+        WhoAmI.learn_japanese()
+        WhoAmI.postgraduate_software_engineering()
+
+    @staticmethod
+    def learn_japanese():
         pass
 
     @staticmethod
-    def postgraduateSoftwareEngineering():
+    def postgraduate_software_engineering():
         pass
  ```
 ---
