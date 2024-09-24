@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/josealexandre87/) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealexandre87) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jose.josealexandre87@gmail.com)
 <img align='right' src="https://media.giphy.com/media/oQuiJexT0hB94SIVAx/giphy.gif?cid=ecf05e47moq1thcjfsqjscnyd9lca64adu9wvy893u4vsrvx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="160">
 
